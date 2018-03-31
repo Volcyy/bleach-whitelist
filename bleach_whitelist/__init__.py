@@ -63,6 +63,8 @@ markdown_tags = [
 markdown_attrs = {
     "img": ["src", "alt", "title"],
     "a": ["href", "alt", "title"],
+    "div": ["class"],
+    "span": ["class"]
 }
 
 # Tags suitable for preparing documents for printing.
