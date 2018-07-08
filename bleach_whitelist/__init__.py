@@ -64,7 +64,13 @@ markdown_attrs = {
     "img": ["src", "alt", "title"],
     "a": ["href", "alt", "title"],
     "div": ["class"],
-    "span": ["class"]
+    "span": ["class"],
+    "h1": ["id"],
+    "h2": ["id"],
+    "h3": ["id"],
+    "h4": ["id"],
+    "h5": ["id"],
+    "h6": ["id"]
 }
 
 # Tags suitable for preparing documents for printing.
